@@ -1,5 +1,3 @@
----
-
 👋 Hi there! I'm **Tegar Haris**, a passionate **Data Science Student** with a strong focus on leveraging technology to uncover insights and solve complex problems.  
 
 🔧 **Tools & Platforms I Use:**  
@@ -12,5 +10,3 @@
 - Data preprocessing and visualization techniques  
 
 Feel free to connect or explore my repositories for exciting projects! 🚀  
-
----  
