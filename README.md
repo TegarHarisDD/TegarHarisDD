@@ -1,12 +1,58 @@
-👋 Hi there! I'm **Tegar Haris**, a passionate **Data Science Student** with a strong focus on leveraging technology to uncover insights and solve complex problems.  
+# Hi there, I'm Tegar Haris 👋
 
-🔧 **Tools & Platforms I Use:**  
-- **Development Environments:** Visual Studio Code, JupyterLab, NetBeans  
-- **Programming Languages:** Python, C++, Java, SQL  
-- **Data Science & Machine Learning:** Jupyter Notebook, Anaconda, and Python libraries such as NumPy, Pandas, Matplotlib, Scikit-learn, OpenCV and TensorFlow  
+## Data Science Student | Developer | Machine Learning Enthusiast
 
-💻 Currently exploring:  
-- Advanced machine learning algorithms  
-- Data preprocessing and visualization techniques  
+I'm a passionate **Data Science Student** with a strong focus on leveraging technology to uncover insights and solve complex problems.
 
-Feel free to connect or explore my repositories for exciting projects! 🚀  
+---
+
+### 🔧 **Tools & Platforms I Use:**
+
+- **Development Environments:**
+  - Visual Studio Code
+  - NetBeans
+  - PyCharm
+  - Spyder
+  - RStudio
+  - JupyterLab
+  - Atom
+  - Sublime Text
+  - Eclipse
+  - IntelliJ IDEA
+  
+- **Programming Languages:**
+  - Python
+  - C++
+  - Java
+  - SQL
+  
+- **Data Science & Machine Learning Libraries:**
+  - Jupyter Notebook
+  - Anaconda
+  - NumPy
+  - Pandas
+  - Matplotlib
+  - Scikit-learn
+  - TensorFlow
+  - Keras
+  - PyTorch
+  - Seaborn
+  - Plotly
+  - XGBoost
+  - LightGBM
+  - Statsmodels
+  - NLTK
+  - spaCy
+  - OpenCV
+  - Scipy
+  - Dask
+
+---
+
+### 💻 **Currently Exploring:**
+- Machine learning algorithms
+- Data preprocessing and visualization techniques
+
+---
+
+Feel free to explore my repositories or connect with me for exciting projects! 🚀
