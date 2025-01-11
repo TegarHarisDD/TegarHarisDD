@@ -37,15 +37,8 @@ I'm a passionate **Data Science Student** with a strong focus on leveraging tech
   - Keras
   - PyTorch
   - Seaborn
-  - Plotly
-  - XGBoost
-  - LightGBM
-  - Statsmodels
   - NLTK
-  - spaCy
   - OpenCV
-  - Scipy
-  - Dask
 
 ---
 
