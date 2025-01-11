@@ -20,7 +20,7 @@ I'm a passionate **Data Science Student** with a strong focus on leveraging tech
 ### 💻 **Currently Exploring:**
 - Machine learning algorithms
 - Data preprocessing and visualization techniques
-
+- Generative AI
 ---
 
 Feel free to explore my repositories or connect with me for exciting projects! 🚀
