@@ -8,37 +8,12 @@ I'm a passionate **Data Science Student** with a strong focus on leveraging tech
 
 ### 🔧 **Tools & Platforms I Use:**
 
-- **Development Environments:**
-  - Visual Studio Code
-  - NetBeans
-  - PyCharm
-  - Spyder
-  - RStudio
-  - JupyterLab
-  - Atom
-  - Sublime Text
-  - Eclipse
-  - IntelliJ IDEA
+- **Development Environments:** Visual Studio Code, NetBeans, JupyterLab
+
   
-- **Programming Languages:**
-  - Python
-  - C++
-  - Java
-  - SQL
+- **Programming Languages:** Python, C++, Java, SQL
   
-- **Data Science & Machine Learning Libraries:**
-  - Jupyter Notebook
-  - Anaconda
-  - NumPy
-  - Pandas
-  - Matplotlib
-  - Scikit-learn
-  - TensorFlow
-  - Keras
-  - PyTorch
-  - Seaborn
-  - NLTK
-  - OpenCV
+- **Data Science & Machine Learning Libraries:** Jupyter Notebook, Anaconda, NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, PyTorch, Seaborn, NLTK, OpenCV
 
 ---
 
