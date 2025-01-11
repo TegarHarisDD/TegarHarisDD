@@ -1,16 +1,16 @@
-## Hi there 👋
+---
 
-<!--
-**TegarHarisDD/TegarHarisDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm **Tegar Haris**, a passionate **Data Science Student** with a strong focus on leveraging technology to uncover insights and solve complex problems.  
 
-Here are some ideas to get you started:
+🔧 **Tools & Platforms I Use:**  
+- **Development Environments:** Visual Studio Code, JupyterLab, NetBeans  
+- **Programming Languages:** Python, C++, Java, SQL  
+- **Data Science & Machine Learning:** Jupyter Notebook, Anaconda, and Python libraries such as NumPy, Pandas, Matplotlib, Scikit-learn, and TensorFlow  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently exploring:  
+- Advanced machine learning algorithms  
+- Data preprocessing and visualization techniques  
+
+Feel free to connect or explore my repositories for exciting projects! 🚀  
+
+---  
