@@ -2,8 +2,6 @@
 
 ## Data Science Student | Developer | Machine Learning Enthusiast
 
-I'm a passionate **Data Science Student** with a strong focus on leveraging technology to uncover insights and solve complex problems.
-
 ---
 ### 🔧 **Tools & Platforms I Use:**
 
