@@ -1,6 +1,6 @@
 # Hi there, I'm Tegar Haris 👋
 
-## Data Science Student | Developer | Machine Learning Enthusiast
+## Data Science | Machine Learning
 
 ---
 ### 🔧 **Tools & Platforms I Use:**
