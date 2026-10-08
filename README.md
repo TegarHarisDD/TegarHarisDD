@@ -16,7 +16,7 @@
 
 I'm a **Software & AI Engineer** with 1 year of experience building full-stack web applications and AI-powered solutions. I enjoy turning ideas into practical, scalable, and maintainable software, from modern React frontends to backend APIs and automation workflows.
 
-- 🎓 B.Sc. in Computer Science, **Dian Nuswantoro University** (GPA **3.71 / 4.00**)
+- 🎓 B.Sc. in Computer Science, **Dian Nuswantoro University**
 - 🤖 Building AI applications, RAG systems, and workflow automation
 - 🌐 Full-stack development with React, Node.js, FastAPI, and Supabase
 - 🚀 Currently working on **Job Tracker**, an AI-powered job application tracker
@@ -72,20 +72,6 @@ I'm a **Software & AI Engineer** with 1 year of experience building full-stack w
 ![Agent Skills](https://img.shields.io/badge/Agent_Skills_%26_Workflows-6E40C9?style=flat-square)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TegarHarisDD&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TegarHarisDD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TegarHarisDD&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 I'm open to **Software Engineer, AI Engineer, and Full-Stack Developer** opportunities, collaborations, and conversations about AI and automation.
